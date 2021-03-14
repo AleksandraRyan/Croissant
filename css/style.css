@@ -1,0 +1,32 @@
+body {
+  background: #0dcaf0;
+  text-align: center;
+  line-height: 1.5;
+}
+
+a {
+  margin-right: 1.5rem;
+  color: rgb(238, 241, 241);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
+}
+
+a.contact-link {
+  margin: 0;
+}
